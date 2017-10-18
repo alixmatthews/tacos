@@ -1,3 +1,9 @@
 tortilla
 beans
-
+meat
+guac
+tomatoes
+salsa
+cheese
+lettuce
+taco sauce
