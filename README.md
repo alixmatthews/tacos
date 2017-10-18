@@ -2,6 +2,8 @@
 
 This repository can be used as a teaching demo for GitHub
 
+b/c they are delicious
+
 **Instructions:**
 
 * Fork this repository
